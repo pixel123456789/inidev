@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Check if zip file exists
-if [ ! -f "project.zip" ]; then
+if [ ! -f "UnconsciousSlategreyVolume.zip" ]; then
     echo "Error: project.zip not found"
     exit 1
 fi
